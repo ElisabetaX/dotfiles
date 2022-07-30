@@ -1,4 +1,6 @@
 {
     "liveshare.launcherClient": "web",
-    "workbench.startupEditor": "welcomePage"
+    "workbench.startupEditor": "welcomePage",
+    "window.zoomLevel": 1,
+    "security.workspace.trust.untrustedFiles": "open"
 }
